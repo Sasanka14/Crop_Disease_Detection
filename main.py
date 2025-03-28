@@ -986,13 +986,6 @@ elif page == "Disease Recognition":
                                 <span>Government Plant Protection Resources</span>
                             </div>
                         </a>
-                        
-                        <a href="mailto:sasankasekharkundu24@gmail.com" target="_blank" style="text-decoration: none;">
-                            <div style="background-color: #f5f5f5; padding: 10px; border-radius: 5px; display: flex; align-items: center;">
-                                <img src="https://img.icons8.com/fluency/48/expert.png" width="20" style="margin-right: 10px;">
-                                <span>Consult an Expert</span>
-                            </div>
-                        </a>
                     </div>
                 </div>
                 """, unsafe_allow_html=True)
