@@ -373,7 +373,7 @@ with st.sidebar:
     
     # Simple, large, easy-to-understand navigation buttons
     app_mode = st.radio(
-        "",
+        "Navigation",
         ["🏠 Home", "ℹ️ About", "🔍 Disease Recognition"],
         label_visibility="collapsed"
     )
