@@ -1,5 +1,0 @@
-<svg width="32" height="32" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <!-- Circular background -->
-  <circle cx="16" cy="16" r="15" fill="#4CAF50" stroke="#2E7D32" stroke-width="2"/>  <!-- Sprouting leaf inside the circle -->  <path d="M16 20 Q18 14, 22 12 Q18 16, 16 24" stroke="#FFC107" stroke-width="2" fill="none"/>
-  <path d="M16 24 Q14 16, 10 14 Q14 18, 16 24" stroke="#FFC107" stroke-width="2" fill="none"/>
-</svg>

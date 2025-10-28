@@ -1,0 +1,35 @@
+# Python cache/compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Virtual environments
+venv/
+env/
+.venv/
+ENV/
+
+# IDE / Editor settings
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Data / Models
+asset/
+*.h5
+*.json
+*.pickle
+*.pkl
+*.csv
+*.tsv
+
+# OS files
+.DS_Store
+Thumbs.db

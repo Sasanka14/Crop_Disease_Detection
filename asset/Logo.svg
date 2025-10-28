@@ -1,7 +1,0 @@
-<svg width="200" height="60" viewBox="0 0 200 60" xmlns="http://www.w3.org/2000/svg" fill="none">
-  <!-- Leaf integrated with A -->
-  <path d="M20 50 L35 10 L50 50" stroke="#4CAF50" stroke-width="5" fill="none"/>
-  <path d="M35 10 Q40 20, 35 30 Q30 40, 35 50" stroke="#4CAF50" stroke-width="3" fill="none"/>  <!-- AgriNext Text -->  <text x="55" y="45" font-family="Arial, sans-serif" font-size="30" font-weight="bold" fill="#2E7D32">
-    AgriNext
-  </text>  <!-- Sun above "i" -->  <circle cx="90" cy="20" r="5" fill="#FFC107" />
-</svg>
